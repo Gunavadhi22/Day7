@@ -1,0 +1,15 @@
+package Day7;
+import java.util.Scanner;
+public class Returntype {
+  public void display()
+  {
+	System.out.println("Hi nice To Meet You");  
+  }
+  public static void main(String[] args) {
+	Returntype obj=new Returntype();
+	obj.display();
+}
+}
+
+
+
