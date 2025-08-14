@@ -1,0 +1,103 @@
+package Day7;
+public class Strings {
+	public static void main(String[] args) {
+		String str="Naveen";
+		String str1="Naveen";
+		String str2=new String("Naveen");
+		String str3=new String("yellowmatics");
+		System.out.println(str==str2);
+		System.out.println(str.equals(str2));
+		System.out.println(str);
+		System.out.println(str.trim());
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
