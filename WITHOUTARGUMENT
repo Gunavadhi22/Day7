@@ -1,0 +1,13 @@
+package Day7;
+
+public class Withargumentwithoutreturn {
+    public void display() {
+        String name = "Gunavadhi";
+        System.out.println("Name: " + name);
+    }
+
+    public static void main(String[] args) {
+        Withargumentwithoutreturn obj = new Withargumentwithoutreturn();
+        obj.display();
+    }
+}
